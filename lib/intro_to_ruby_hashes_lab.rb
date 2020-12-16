@@ -9,3 +9,7 @@ end
 def pioneer
   { name: "Grace Hopper" }
 end
+
+def id_hash_generator(int)
+  { id: int }
+end
